@@ -1,4 +1,25 @@
-<h2 align="left">Hi 👋! My name is Maicon and I'm a Solo Entrepreneur, from Brazil.</h2>
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Maicon and I'm a  Solo Entrepreneur, from Brazil.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ A creative developer and a curious entrepreneur, who loves to apply his knowledge to solve problems, create amazing products and impact lives. </p>
+
+- 🔭 I’m currently working on side.tech
+- 🌱 I’m currently learning about 
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 ###
 
@@ -44,6 +65,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
