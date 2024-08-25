@@ -13,18 +13,8 @@
 <p align="left">✨ A creative developer and a curious entrepreneur, who loves to apply his knowledge to solve problems, create amazing products and impact lives. </p>
 
 - 🔭 I’m currently working on side.tech
-- 🌱 I’m currently learning about 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
+- 📫 How to reach me: maicon@side.tech
+  
 ###
 
 <div align="left">
